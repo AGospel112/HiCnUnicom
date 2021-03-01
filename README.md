@@ -51,7 +51,7 @@
 
 触发运行方式：  
 双击右上角自己仓库Star触发；  
-由于规则更新,可能会Fork后会默认禁用,请手动点击Actions 选择项目 `enable workflows`激活  
+由于规则更新,可能会Fork后会默认禁用,请手动点击Actions 选择项目 `enable workflows`激活   
 
 ### 3.同步Fork后的代码
 
